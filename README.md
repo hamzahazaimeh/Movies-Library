@@ -8,11 +8,7 @@ This server build for upload  Movies
 
 ## Overview
 
-
 ![image](/Cycle.jpg)
-
-
-
 
 ## Getting Started
 Clone this link: " https://github.com/hamzahazaimeh/Movies-Library" in your Terminal.
@@ -25,3 +21,7 @@ Use Postman
 - you can use it in any platform 
 - easy ti use
 - you can watch new movie 
+
+
+## Api Task 
+![image](Api.jpg)
